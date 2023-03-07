@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cloud-react-app/static/css/main.19e0347d.css",
+    "main.js": "/Cloud-react-app/static/js/main.be33a620.js",
+    "static/media/support.png": "/Cloud-react-app/static/media/support.13dffa5bdb3a671bcb5b.png",
+    "static/media/cyber-bg.png": "/Cloud-react-app/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/Cloud-react-app/index.html",
+    "main.19e0347d.css.map": "/Cloud-react-app/static/css/main.19e0347d.css.map",
+    "main.be33a620.js.map": "/Cloud-react-app/static/js/main.be33a620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e0347d.css",
+    "static/js/main.be33a620.js"
+  ]
+}
